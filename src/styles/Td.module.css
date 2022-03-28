@@ -1,0 +1,21 @@
+.todoList{
+    background-color: steelblue;
+    width: 20rem;
+    padding: 1rem;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 10rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.delBtn,
+.compBtn{
+    border-radius: 100%;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: .5rem;
+    cursor: pointer;
+}

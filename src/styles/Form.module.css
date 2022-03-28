@@ -1,0 +1,9 @@
+.submitSection{
+    background-color: burlywood;
+    height: 5rem;
+    padding: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
