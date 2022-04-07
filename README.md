@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-npm init npm start
+npm install
 ```
 
 ## Author
